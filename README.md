@@ -27,7 +27,7 @@ My main values consist of making the digital world a safer place for businesses,
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conducting a security audit          | <a href="https://google.com">Detection Lab</a>|
+| Conducting a security audit          | [Security audit](https://docs.google.com/document/d/1W7DYxsmKi_J3G-8pM6m1SNFUsDSVl4rpbpl38olCIV0/view?usp=sharing)
 | Analyzing network structure and security | <a href="https://google.com">Detection Lab</a>|
 | Using Linux commands to manage file permissions        | SOC Automation Lab|
 | Applying filters to SQL queries     | SOC Automation Lab|
